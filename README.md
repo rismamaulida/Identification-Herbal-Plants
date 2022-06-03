@@ -9,7 +9,7 @@ The application made is identification of herbal plants. The mission of this pro
 If you want to try this project to your local system, just follow this step :
 1. Clone this project to your local PC.
 2. Open your terminal and go to the project folder. Start to install requirements python library using this command: pip install -r requirements.txt
-3. If you want to create ResNet50 models, you can access the note file provided above and then you will be directed to download via google drive, the next process downloads the identification file herbalplants.ipynb to run it using google colab.
+3. If you want to create ResNet50 models, you can access the note file provided above and then you will be directed to download via google drive, in the next process, download file identificationofherbalplants.ipynb to run it using google colab.
 4. Put the models you have downloaded to Identification Herbal Plants folder (at the same folder with main.py)
 5. Open your terminal and run the Identification Herbal Plants folder using this command : python main.py
 6. Run the main.py file and wait a minutes (2-5 minutes to load the models)
